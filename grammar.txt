@@ -1,0 +1,3 @@
+B -> S
+S -> d = E
+E -> E + E | E - E | E * E | E / E | E ^ E | ( E ) | d | i | f
